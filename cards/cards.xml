@@ -341,7 +341,7 @@
 		<link>https://web.archive.org/web/20171211204303/http://rjblain.com/2013/01/creating-a-story-bible-the-basics/</link>
 		<link>https://web.archive.org/web/20121102131152/http://www.joergihle.de/storyworlds.html</link>
 		<link>http://darrellhardy.com/blog/2013/03/12/storyworld-architecture-101/</link>
-		<link>http://www.amazon.de/Building-Imaginary-Worlds-History-Subcreation/dp/0415631203</link>
+		<link>https://www.goodreads.com/book/show/15858928-building-imaginary-worlds</link> <!-- Goodreads: Building Imaginary Worlds (Mark J. P. Wolf) -->
 		<link>http://en.wikipedia.org/wiki/Fictional_universe</link>
 		<link>https://prezi.com/_mtgi7uv_49c/storyworlds_160204/</link>
 		<link>https://www.wired.com/2008/08/ff-starwarscanon/</link>
@@ -394,10 +394,10 @@
 		<link>https://www.wikiwand.com/de/Lyrik</link>
 		<link>http://www.textlog.de/5835.html</link> <!-- Hegel: Die lyrische Poesie -->
 		<link>https://prezi.com/ljhylzepqgjj/dramaturgie-als-prinzip/</link>
-		<link>http://www.amazon.de/Filmdramaturgie-Peter-Rabenalt/dp/3895812439</link>
+		<link>https://www.goodreads.com/book/show/25144001-filmdramaturgie</link> <!-- Goodreads: Filmdramaturgie (Peter Rabenalt) -->
 		<link>http://www.ray-magazin.at/magazin/2011/11/filmdramaturgie-plaedoyer-fuer-das-epische</link>
-		<link>http://www.amazon.de/Handbuch-Filmdramaturgie-Bauchgef-hl-Babelsberger-Mediendramaturgie/dp/3631618824</link>
-		<link>http://www.amazon.de/Handbuch-Angewandter-Dramaturgie-Babelsberger-Mediendramaturgie/dp/3631641389</link>
+		<link>https://www.goodreads.com/book/show/16265497-handbuch-der-filmdramaturgie</link> <!-- Goodreads: Handbuch der Filmdramaturgie (Kerstin Stutterheim, Silke Kaiser) -->
+		<link>https://www.goodreads.com/book/show/26499915-handbuch-angewandter-dramaturgie</link> <!-- Goodreads: Handbuch angewandter Dramaturgie (Kerstin Stutterheim) -->
 		<link>https://www.goodreads.com/review/list/40472585-csongor-baranyai?shelf=dramaturgy</link>
 		<link>http://de.wikipedia.org/wiki/Analytisches_Drama</link>
 	</card>
@@ -456,7 +456,7 @@
 		<cardCategoryId>7</cardCategoryId>
 		<title>Media Studies</title>
 		<text>Digital Media / Academia</text>
-		<link>https://www.amazon.de/Einf%C3%BChrung-die-Medientheorie-Rainer-Leschke/dp/3825223868</link>
+		<link>https://www.goodreads.com/book/show/9259845-einf-hrung-in-die-medientheorie</link> <!-- Goodreads: Einführung in die Medientheorie (Rainer Leschke) -->
 		<link>https://en.wikipedia.org/wiki/What_Technology_Wants</link>
 		<link>https://www.transcript-verlag.de/978-3-89942-339-6/reader-neue-medien/</link>
 		<link>https://mitpress.mit.edu/books/racing-beam</link>
@@ -478,8 +478,8 @@
 		<cardCategoryId>7</cardCategoryId>
 		<title>History</title>
 		<text>Digitality / Media History / Genealogy</text>
-		<link>https://www.amazon.de/Replay-History-Video-Tristan-Donovan/dp/0956507204</link>
-		<link>https://www.amazon.de/-/en/Bill-Loguidice/dp/1138428515</link>
+		<link>https://en.wikipedia.org/wiki/Replay:_The_History_of_Video_Games</link> <!-- Wikipedia: Replay, The History of Video Games (Tristan Donovan) -->
+		<link>https://www.goodreads.com/book/show/39205620-vintage-games</link> <!-- Goodreads: Vintage Games 2.0 (Bill Loguidice, Matt Barton) -->
 	</card>
 
 	<card>
@@ -513,7 +513,7 @@
 		<link>https://en.wikipedia.org/wiki/Cone_of_Uncertainty</link>
 		<link>https://en.wikipedia.org/wiki/The_Mythical_Man-Month</link>
 		<link>https://en.wikipedia.org/wiki/Project_management_triangle</link>
-		<link>https://www.amazon.de/Medienkompetenz-Projektmanagement-Medienentwicklung-Holger-Nathrath/dp/3589238291</link>
+		<link>https://www.goodreads.com/book/show/13051840-kompetenz-in-medien--und-werbeberufen-projektmanagement-in-der-medienen</link> <!-- Goodreads: Projektmanagement in der Medienentwicklung (Holger Nathrath et al.) -->
 		<link>https://www.gamedeveloper.com/game-platforms/team-building-exercises-with-dream-build-play</link>
 	</card>
 
@@ -628,6 +628,42 @@
 		<link>http://gdcvault.com/play/1023430/Making-Her-Story-Telling-a</link>
 	</card>
 
+	<card>
+		<cardCategoryId>11</cardCategoryId>
+		<title forcedFilename="clairobscur">Clair Obscur:/Expedition 33</title>
+		<text>Production / Gameplay / Art / Interface / Narrative</text>
+		<link>https://www.youtube.com/watch?v=BLUbu8he0og</link> <!-- GDC Festival of Gaming: Small Team, Massive Game (four programmers) -->
+		<link>https://www.youtube.com/watch?v=t1CrbTx6O6w</link> <!-- Unreal Fest Stockholm 2025: The Technical Journey of Clair Obscur -->
+		<link>https://www.youtube.com/watch?v=Hc5jC099-vE</link> <!-- Unreal Engine: Clair Obscur developer interview -->
+		<link>https://www.youtube.com/watch?v=wfOt5vaJFa0</link> <!-- Perforce at GDC 2026: The tech and tools behind Clair Obscur (with CTO Tom Guillermin) -->
+		<link>https://www.youtube.com/watch?v=SEKMqLpd8BI</link> <!-- Making of Clair Obscur: Expedition 33 (behind the scenes) -->
+		<link>https://automaton-media.com/en/interviews/clair-obscur-expedition-33-director-eliminating-limitations-is-a-big-mistake-we-talk-to-sandfall-interactive-about-staying-small-japanese-influences/</link> <!-- Automaton interview: Why removing limitations is a big mistake (staying small) -->
+		<link>https://blog.playstation.com/2024/07/29/clair-obscur-expedition-33-devs-discuss-classic-turn-based-rpg-inspiration-and-real-time-mechanics/</link> <!-- PlayStation Blog: Turn-based inspiration and real-time mechanics -->
+		<link>https://automaton-media.com/en/news/clair-obscur-expedition-33s-battle-system-was-designed-around-the-premise-of-no-frustrating-deaths-and-a-game-you-can-clear-with/</link> <!-- Automaton: A battle system designed around no frustrating deaths -->
+		<link>https://www.gamesradar.com/games/rpg/clair-obscur-expedition-33-devs-were-told-that-no-one-would-like-one-of-the-rpgs-best-systems-before-it-launched-lead-says-we-didnt-care/</link> <!-- GamesRadar: They were told no one would like the parry system -->
+		<link>https://gamingbolt.com/clair-obscur-expedition-33-creative-director-talks-about-build-options-and-unique-character-mechanics</link> <!-- GamingBolt: The creative director on builds and character mechanics -->
+		<link>https://www.youtube.com/watch?v=KdCyZ8mKL8g</link> <!-- Marvelous Designer: Creating narrative through character design (lead character artist) -->
+		<link>https://schedule.gdconf.com/session/four-artists-use-substance-3d-to-texture-clair-obscur-expedition-33-presented-by-adobe/917358</link> <!-- GDC 2026: Four artists use Substance 3D to texture Clair Obscur -->
+		<link>https://www.gamedeveloper.com/programming/clair-obscur-expedition-33-was-built-95-percent-with-unreal-blueprints</link> <!-- Game Developer: Built 95 percent with Unreal Blueprints -->
+		<link>https://www.gamedeveloper.com/design/crafting-clair-obscur-expedition-33-s-mournful-tale-ft-jennifer-svedeberg-yen</link> <!-- Game Developer: Crafting the mournful tale (with writer Jennifer Svedberg-Yen) -->
+		<link>https://en.wikipedia.org/wiki/Clair_Obscur:_Expedition_33</link> <!-- Wikipedia: Clair Obscur: Expedition 33 -->
+	</card>
+
+	<card>
+		<cardCategoryId>11</cardCategoryId>
+		<title forcedFilename="outerwilds">Outer Wilds</title>
+		<text>Production / Level Design / Narrative / Sound / Gameplay</text>
+		<link>https://www.youtube.com/watch?v=LbY0mBXKKT0</link> <!-- Noclip: The Making of Outer Wilds -->
+		<link>http://www.pressplaygaming.net/articles/2019/10/14/outer-wilds-has-always-been-a-rad-idea</link> <!-- Press Play: From student project to release -->
+		<link>https://www.gamedeveloper.com/design/see-the-4d-level-design-of-i-outer-wilds-i-deconstructed-at-gdc-2020-</link> <!-- GDC 2020: The 4D level design of Outer Wilds (Alex Beachum) -->
+		<link>https://www.youtube.com/watch?v=vGnce1Dp9BU</link> <!-- Full Indie: Alex Beachum, Designing for Curiosity in Outer Wilds -->
+		<link>https://gdcvault.com/play/1027008/Independent-Games-Summit-Sparking-Curiosity</link> <!-- GDC 2021: Sparking Curiosity-Driven Exploration Through Narrative (Kelsey Beachum) -->
+		<link>https://www.youtube.com/watch?v=tz8Sw6X-knM</link> <!-- Noclip Podcast #49: Outer Wilds developers break down Echoes of the Eye -->
+		<link>https://www.youtube.com/watch?v=SZDoUT-sofQ</link> <!-- The impeccable sound design of Outer Wilds -->
+		<link>https://www.gamedeveloper.com/design/outer-wilds-critical-analysis</link> <!-- Game Developer: Outer Wilds critical analysis -->
+		<link>https://en.wikipedia.org/wiki/Outer_Wilds</link> <!-- Wikipedia: Outer Wilds -->
+	</card>
+
 	<!-- ================================== -->
 	<!-- Tasks -->
 	<!-- ================================== -->
@@ -672,7 +708,7 @@
 
 	<card type="display">
 		<cardCategoryId>9</cardCategoryId>
-		<tag>10</tag>
+		<tag>4</tag>
 		<text>Write one sprint as the projectmanager at some point in development</text>
 	</card>
 

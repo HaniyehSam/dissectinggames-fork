@@ -2,52 +2,52 @@
 
 <cardCategories>
 
-	<cardCategory color="f44141">
+	<cardCategory color="C2362B">
 		<title>Game Design</title>
 	</cardCategory>
 
-	<cardCategory color="ca41f4">
+	<cardCategory color="B33886">
 		<title>Art</title>
 	</cardCategory>
 
-	<cardCategory color="46845d">
+	<cardCategory color="1E7F45">
 		<title>Programming</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="5B0632">
+	<cardCategory row="1" color="2D5BA8">
 		<title>Audio</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="8c9b00">
+	<cardCategory row="1" color="93701A">
 		<title>Business</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="414cf4">
+	<cardCategory row="1" color="6A3C9E">
 		<title>Narrative</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="b2652e">
+	<cardCategory row="1" color="9B4A2A">
 		<title>Culture</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="1ca821">
+	<cardCategory row="1" color="1F6F72">
 		<title>Media Studies</title>
 	</cardCategory>
 
-	<cardCategory row="1" color="5C6E82">
+	<cardCategory row="1" color="5B5550">
 		<title>Development</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="208278" onlyBorder="true">
+	<cardCategory row="2" color="E5A33A" onlyBorder="true">
 		<title>Tasks</title>
 	</cardCategory>
 
-	<cardCategory row="2" color="f441a0" onlyBorder="true">
+	<cardCategory row="2" color="DE6A9A" onlyBorder="true">
 		<title>Questions</title>
 	</cardCategory>
 
-	<cardCategory row="3" color="960f0f">
-		<title>Examples</title>
+	<cardCategory row="3" color="2E3E86">
+		<title>Case Studies</title>
 	</cardCategory>
 
 </cardCategories>
